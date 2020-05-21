@@ -1,5 +1,8 @@
 {
 	"editor.fontFamily": "Hack",
 	"editor.fontSize": 16,
-	"terminal.integrated.fontSize": 16
+	"terminal.integrated.fontSize": 16,
+	"files.associations": {
+
+	}
 }
