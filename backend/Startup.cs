@@ -51,9 +51,9 @@ namespace backend_recaptcha
                 app.UseDeveloperExceptionPage();
             }
 
-			app.UseCors("MyCorsPolicy");
+            app.UseCors("MyCorsPolicy");
 			
-			app.UseGoogleRecaptchaValidation();
+            app.UseGoogleRecaptchaValidation();
 
             app.UseHttpsRedirection();
 
