@@ -6,6 +6,6 @@
     <UserSecretsId>6f9f07df-fae5-4ab6-8fdd-da7c421a573d</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
 </Project>
